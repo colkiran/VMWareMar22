@@ -1,0 +1,24 @@
+packages
+--------
+directory / folder
+
+are folder which will have the libraries stored in it
+
+2.x
+---
+have a file __init__.py (empty file is also permited)
+
+
+Modules
+-------
+libraries
+
+
+python -m pip install --upgrade build
+
+python -m build
+
+
+
+
+
